@@ -1,4 +1,10 @@
 # 💫 Hridoy Hasan
+
+
+![LinkedIn Banner](https://media.licdn.com/dms/image/D5616AQHnazaabmFxwA/profile-displaybackgroundimage-shrink_350_1400/0/1722234226871?e=1727913600&v=beta&t=QUKuwAAwl2qh11VUKqXZ0v3Pq9Ea8lqimoVI457j5Us)
+
+
+
 🔭 Currently, I’m concentrating on advancing my problem-solving strategies and expanding my expertise in data structures and algorithms.<br>🌱 I’m actively learning about advanced computer science fields, including OOP, Machine Learning, and intricate algorithms.<br>👯 I’m interested in contributing to open-source projects, with a focus on software development and machine learning.<br>💬 If you need assistance with C, C++, Python, or Java, just let me know. I’m here to answer your questions!<br>😄 Pronouns: He/Him
 
 
