@@ -1,29 +1,24 @@
-### Hello👋 This is Hridoy Hasan.
-#### CS STUDENT
-![CS STUDENT](https://media.licdn.com/dms/image/D5616AQGL6dy76V4c5A/profile-displaybackgroundimage-shrink_350_1400/0/1722190594812?e=1727913600&v=beta&t=62bEZFS9eXUPxL_yY2AK_EryONNK_NZpcede-f8-Dfw)
-
-I'm a CSE student at Daffodil International University. Currently, I'm learning Python and Java. And working in our  university's Machine learning lab.
-
-Skills: C/ C++ / Java / Python / DSA
-
-- 🌱 I’m currently learning Machine Learning. 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about DSA. 
+# 💫 Hridoy Hasan
+🔭 Currently, I’m concentrating on advancing my problem-solving strategies and expanding my expertise in data structures and algorithms.<br>🌱 I’m actively learning about advanced computer science fields, including OOP, Machine Learning, and intricate algorithms.<br>👯 I’m interested in contributing to open-source projects, with a focus on software development and machine learning.<br>💬 If you need assistance with C, C++, Python, or Java, just let me know. I’m here to answer your questions!<br>😄 Pronouns: He/Him
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hridoynasah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hridoyhasan/)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hridoyhasan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26552781/hridoy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hridooy_nasah) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hridoynasah&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hridoynasah&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoynasah&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hridoynasah)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hridoynasah&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoynasah)](https://github.com/anuraghazra/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hridoynasah&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoynasah&show_icons=true&count_private=true)  
+---
+[![](https://visitcount.itsvg.in/api?id=hridoynasah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hridoynasah/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/hridoynasah)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hridoynasah)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
