@@ -5,7 +5,7 @@
 
 
 
-🔭 Currently, I’m concentrating on advancing my problem-solving strategies and expanding my expertise in data structures and algorithms.<br>🌱 I’m actively learning about advanced computer science fields, including OOP, Machine Learning, and intricate algorithms.<br>👯 I’m interested in contributing to open-source projects, with a focus on software development and machine learning.<br>💬 If you need assistance with C, C++, Python, or Java, just let me know. I’m here to answer your questions!<br>😄 Pronouns: He/Him
+🔭 Currently, I’m concentrating on advancing my problem-solving strategies and expanding my expertise in data structures and algorithms.<br>🌱 I’m actively learning about advanced computer science fields, including OOP, Machine Learning, and intricate algorithms.<br>💬 If you need assistance with C, C++, Python, or Java, just let me know. I’m here to answer your questions!<br>
 
 
 ## 🌐 Socials:
