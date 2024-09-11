@@ -1,7 +1,7 @@
 # 💫 Hridoy Hasan
 
 
-![LinkedIn Banner](https://media.licdn.com/dms/image/D5616AQHnazaabmFxwA/profile-displaybackgroundimage-shrink_350_1400/0/1722234226871?e=1727913600&v=beta&t=QUKuwAAwl2qh11VUKqXZ0v3Pq9Ea8lqimoVI457j5Us)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQGMevlUuwfAyA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726048098390?e=1731542400&v=beta&t=A-yXWIgNlNfIxsefQsqgcVlyczOVPNhCa_r7QgQi32o)
 
 
 
