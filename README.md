@@ -1,7 +1,5 @@
 ### 💫 Hridoy Hasan
 
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQGMevlUuwfAyA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726048098390?e=1743638400&v=beta&t=zQds4f2Cp_A-s1tM7R-plQ5_5b5-C9bRerldps_TwpU)
-
 🔭 Currently, I’m concentrating on advancing my problem-solving strategies and expanding my expertise in data structures and algorithms. <br> 
 🌱 I’m actively learning about advanced computer science fields, including OOP, Machine Learning, Deep Learning, Natural Language Processing, and intricate algorithms. <br> 
 💬 If you need assistance with C, C++, Python, or Java, just let me know. I’m here to answer your questions! <br> 
