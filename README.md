@@ -1,3 +1,3 @@
 # **💫 Hridoy Hasan**
 
-### 🔭 I love neural networks<br> 
+### 🔭 Focused on Computer Vision, Natural Language Processing, and rigorous academic research.
