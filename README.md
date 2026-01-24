@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-🔭 Research interests include <strong>Computer Vision</strong>, <strong>Natural Language Processing</strong>, and <strong>Health Informatics</strong>.
+🔭 Research interests include <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, and <strong>Health Informatics</strong>.
 </p>
 
 ---
