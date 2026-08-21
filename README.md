@@ -17,6 +17,7 @@
 
 ### **Frameworks & Libraries**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+[![🤗](https://img.shields.io/badge/🤗-Hugging%20Face-2F2F2F?style=flat)](https://huggingface.co/)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff)](#)
